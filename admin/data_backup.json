@@ -1,0 +1,97 @@
+{
+  "background_left_is_image": "false",
+  "portfolio_holder_name": "Magris GroupSs",
+  "portfolio_holder_profession": "Excellent Cleaning Service",
+  "portfolio_bio": "<p style=\"box-sizing: border-box; margin: 0px 0px 5px; font-family: Poppins, sans-serif; font-weight: 400; line-height: 1.875em; color: rgb(25, 25, 25); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\">Highly creative and multitalented Graphic Designer with extensive experience in multimedia, marketing and print design. Exceptional collaborative and interpersonal skills; dynamic team player with well-developed written and verbal communication abilities. Highly skilled in client and vendor relations and negotiations; talented at building and maintaining &ldquo;win-win&rdquo; partnerships. Passionate and inventive creator of innovative marketing strategies and campaigns; accustomed to performing in deadline-driven environments with an emphasis on working within budget requirements.</p><p><br></p>",
+  "profile_pic_base64": "",
+  "gallery": {
+    "5e47385274271b44763a4061003773ea": {
+      "media_type": "0",
+      "media_title": "Amazing",
+      "media_section": "2",
+      "redirect_url": "https://www.google.it",
+      "extension_thumbnail": ".jpg"
+    },
+    "ba0cef935d9a7f235d20f6838998dff3": {
+      "media_type": "0",
+      "media_title": "Amazing",
+      "media_section": "0",
+      "extension_thumbnail": ".jpg"
+    }
+  },
+  "profile_pic": "191ac1d80e3b854681d2d9d8fa13608c",
+  "profile_pic_extension": ".jpg",
+  "skills": {
+    "9926c72e0433e8b4ab1dad22596449e6": {
+      "name": "Web Programming",
+      "value": "100"
+    },
+    "b7f7c1346b6796c37404e303185e2cc2": {
+      "name": "Cleaning Everything",
+      "value": "21"
+    },
+    "200e56c827a4a05abe75d5e75bdc2308": {
+      "name": "Hacking skillz",
+      "value": "100"
+    }
+  },
+  "connections": {
+    "df0f0b5389e904d837f2731d57eb4e5b": {
+      "customer_name": "Magris",
+      "customer_position": "",
+      "customer_company": "",
+      "customer_feedback": "YUP",
+      "extension_pic": ".jpg"
+    },
+    "d3a855dbddb0ac11a1bdc4be73785c4e": {
+      "customer_name": "COZIO",
+      "customer_position": "",
+      "customer_company": "",
+      "customer_feedback": "DAVER",
+      "extension_pic": ".png"
+    },
+    "b64b3a19a8d7bddac92b68eab816e955": {
+      "customer_name": "SI",
+      "customer_position": "",
+      "customer_company": "",
+      "customer_feedback": "CIAO",
+      "extension_pic": ".png"
+    }
+  },
+  "background_video_extension": ".mp4",
+  "background_video": "7cc3d9e3e3097870d8a90a0d268c5f88",
+  "background_left_image": "81368b418e1163edacfc2fc5dbf3b1da",
+  "background_left_image_extension": ".png",
+  "background_right_image": "1f43e2fcdec84b3831265eb9d3d571f7",
+  "background_right_image_extension": ".jpg",
+  "pricing": {
+    "1xge2fcdec84b3831265xb9d3d5s1f7": {
+      "price_name": "STARTER",
+      "pricing_price": "$19.21",
+      "pricing_type": "/ day",
+      "pricing_features": [
+        "Feature One",
+        "Feature Two",
+        "Feature Three",
+        "Feature Four"
+      ],
+      "pricing_background": "#FFFFFF",
+      "pricing_color": "#191919",
+      "pricing_tab":"design"
+    },
+    "d969e3eafe10f977dc6f15eb8ab1f54c": {
+      "price_name": "ADVANCED",
+      "pricing_price": "$49.21",
+      "pricing_type": "LIFETIME",
+      "pricing_features": [
+        "Feature One",
+        "Feature Two",
+        "Feature Three",
+        "Feature Four",
+      ],
+      "pricing_background": "#191919",
+      "pricing_color": "#FFFFFF",
+      "pricing_tab":"design"
+    }
+  }
+}
